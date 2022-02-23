@@ -1,1 +1,9 @@
-visitdemak.com
+$ dig WWW.VISITDEMAK.COM +nostats +nocomments +nocmd
+
+    > WWW.VISITDEMAK.COM.                     IN      A
+
+    > WWW.VISITDEMAK.COM.              3592    IN      CNAME   VISITDEMAK.github.io.
+
+    > VISITDEMAK.github.io.      43192   IN      CNAME    WWW.VISITDEMAK.COM .
+
+    >  WWW.VISITDEMAK.COM/ .         22      IN      A       192.168.33.66
