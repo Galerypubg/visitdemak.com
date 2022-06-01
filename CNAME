@@ -1,9 +1,9 @@
-$ dig WWW.VISITDEMAK.COM +nostats +nocomments +nocmd
+$ dig WWW.GALERYPUBG.GITHUB.IO  +nostats +nocomments +nocmd
 
-    > WWW.VISITDEMAK.COM.                     IN      A
+    > WWW.GALERYPUBG.GITHUB.IO             IN      A
 
-    > WWW.VISITDEMAK.COM.              3592    IN      CNAME   VISITDEMAK.github.io.
+    > WWW.GALERYPUBG.GITHUB.IO       3592    IN      CNAME   https://galerypubg.github.io/visitdemak.com/ .
 
-    > VISITDEMAK.github.io.      43192   IN      CNAME    WWW.VISITDEMAK.COM .
+    > WWW.GALERYPUBG.GITHUB.IO    43192   IN      CNAME    https://galerypubg.github.io/visitdemak.com/.
 
-    >  WWW.VISITDEMAK.COM/ .         22      IN      A       192.168.33.66
+    >  WWW.GALERYPUBG.GITHUB.IO   22      IN      A       192.168.33.66
